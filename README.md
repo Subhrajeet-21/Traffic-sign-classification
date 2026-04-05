@@ -32,6 +32,13 @@ The model is trained on a dataset containing **55 different traffic sign classes
   - `train/`
   - `test/`
 
+Due to size limitations, the dataset is not included in this repository.
+
+📥 Download Dataset:  
+[https://your-google-drive-link](https://drive.google.com/drive/folders/1DdcQY8BYDj1-ImzMlw5gpLbQYaPR2SRJ?usp=sharing)
+
+After downloading, extract and place it.
+
 ---
 
 ## Tech Stack
