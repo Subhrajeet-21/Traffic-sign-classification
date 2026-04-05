@@ -105,3 +105,7 @@ After downloading, extract and place it.
 - Final Test Accuracy: **93.57%**
 
 ---
+## Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub!
+
